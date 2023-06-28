@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": "pr001",
+      "name": "Chole Bhature",
+      "price": "$100",
+      "image": ""
+    }
+  ]
+}
